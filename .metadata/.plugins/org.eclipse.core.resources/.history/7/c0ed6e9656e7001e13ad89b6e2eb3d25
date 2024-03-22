@@ -1,0 +1,19 @@
+package com.first;
+
+public class Main {
+	
+	public static void main(String[] args) {
+//		System.out.println("Welcome Guru");
+		
+		byte myByte = 100;
+		
+		short myShort = 20000;
+		
+		int myInt = 1000000;
+		
+		long myLong = 10000000000L; 
+		
+		float myFloat = 3.14f;
+	}
+
+}

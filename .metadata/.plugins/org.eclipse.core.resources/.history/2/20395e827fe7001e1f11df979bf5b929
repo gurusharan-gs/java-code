@@ -1,0 +1,11 @@
+package com.library;
+
+public class Book {
+	
+	static int totalBooks; 
+	String title;
+	String author;
+	boolean isbn;
+	
+
+}

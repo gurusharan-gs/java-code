@@ -1,0 +1,15 @@
+package com.objectss;
+
+public class Car {
+	
+	int noOfWheels;
+	String color;
+	float maxSpeed;
+	float currentFuelInLiters;
+	int noOfSeats;
+	
+	public void drive() {
+		System.out.println("Car is draving..");
+	}
+
+}

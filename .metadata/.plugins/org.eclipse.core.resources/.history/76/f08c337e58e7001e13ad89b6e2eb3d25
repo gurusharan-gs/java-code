@@ -1,0 +1,50 @@
+package com.first;
+
+public class Main {
+	
+	public void myNmae1() {
+		System.out.println("GuruSharan");
+	}
+	
+	public static void myNmae2() {
+		System.out.println("GuruSharan");
+	}
+	
+	
+	public static void main(String[] args) {
+		
+		byte myByte = 100;
+		
+		short myShort = 20000;
+		
+		int myInt = 1000000;
+		
+		long myLong = 10000000000L; 
+		
+		float myFloat = 3.14f;
+		
+		double myDouble = 3.14159265359;
+		
+		char myChar = 'A';
+		
+		boolean myBoolean = true;
+		
+//		System.out.println("Byte "+myByte);
+//		System.out.println("Short "+myShort);
+//		System.out.println("Int "+myInt);
+//		System.out.println("Long "+myLong);
+//		System.out.println("Float "+myFloat);
+//		System.out.println("Double "+myDouble);
+//		System.out.println("Char "+myChar);
+//		System.out.println("Boolean "+myBoolean);
+//		
+//		System.out.println("methods in java");
+		
+		Main m = new Main();
+		m.myNmae1();
+		
+		
+		
+	}
+
+}

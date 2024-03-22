@@ -1,0 +1,13 @@
+package com.challenge;
+
+public class SumAndAverage {
+	
+	public static void sumAndAverage(int[] arr) {
+		
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+
+}
