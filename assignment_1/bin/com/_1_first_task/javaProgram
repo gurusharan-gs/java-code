@@ -1,0 +1,17 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+
+1. I am saving this file name as the Main.java
+2. I open the command and give the path of the directory where I save my Main.java fife cd Desktop
+3. The compiler compiles the Java source file using the javac command
+   javac Main.java -> This command compiles the Java source code into bytecode and generates the .class file.
+
+4. After that we can run our Java program successfully using the command
+   -> java Main
+   -> This will execute the Java program, and we should see "Hello, World!" printed in the command prompt.
+   -> Successfully created and executed a "Hello World" program in Java using Notepad and CMD.
+

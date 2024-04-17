@@ -1,9 +1,0 @@
-package com.library;
-
-public class Book {
-	
-	String title;
-	String author;
-	boolean isbn;
-
-}
